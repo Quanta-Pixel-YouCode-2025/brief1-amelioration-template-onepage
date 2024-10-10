@@ -1,3 +1,28 @@
 .space-above-footer{
     margin-top: 200px;
 }
+
+.nav-link:hover, .active-link{
+    background: #ff214f;
+    transition: color 400ms ease-in;
+}
+
+.contactbackground{
+    background-image: url('./../imgs/contact.avif');
+}
+
+.servicesbackground{
+    background-image: url('./../imgs/services.avif');
+}
+
+.blogbackground{
+    background-image: url('./../imgs/blog.avif');
+}
+
+.homebackground{
+    background-image: url('./../imgs/home.avif');
+}
+
+.portfoliobackground{
+    background-image: url('./../imgs/portfolio.avif');
+}
