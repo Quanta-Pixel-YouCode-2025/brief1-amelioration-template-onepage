@@ -18,7 +18,7 @@ $(document).ready(function(){
 
         if (this.hash !== "") {
 
-            event.preventDefault();
+            // event.preventDefault();
 
             var hash = this.hash;
 
